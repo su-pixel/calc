@@ -1,0 +1,1 @@
+This my first commit but it's a simple calculator made with python it takes two input num 1 and num2 and can do operations like this "+,-.*,/" and if it doesn't match any of these commnands it will raise and error in the code.
